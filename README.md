@@ -1,15 +1,17 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Banner" width="600"/>
+</p>
+
 # Hey 👋, I'm Sepehr
 
 🚀 Full-Stack Developer | Product Manager | Startup Founder
 
----
-
 ## 🔥 About Me
 
-- 👨‍💻 Flutter & Go developer
+- 👨‍💻 Full-Stack developer & Senior Product Manager
 - 💡 Passionate about building products that scale
 - 🌱 Learning everything about product management & marketing
-- 🎯 Founder of **Klitam** — a building management app
+- 🎯 Founder of Hecateco. ir
 
 ---
 
@@ -20,12 +22,25 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/sepehr-biglari/Klitam">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sepehr-biglari&repo=Klitam&theme=dark" />
+  </a>
+</p>
+
 ## 📈 GitHub Stats
 
-![Sepehr's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&count_private=true)
+![Sepehr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepehr-biglari&show_icons=true&theme=dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehr-biglari&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sepehr-biglari&theme=dark)
 
 ---
 
